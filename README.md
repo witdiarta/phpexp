@@ -1,2 +1,5 @@
 # phpexp
-Eksperiment Bahasa PHP Modular dan OOP
+
+Eksperiment Bahasa PHP Modular
+
+Bebas di pakai tapi sopan
